@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Food</key>
+	<array>
+		<string>杏鲍菇红烧肉</string>
+		<string>手撕茄子</string>
+		<string>干锅鸡块</string>
+		<string>荷兰豆炒牛肉</string>
+		<string>土豆海带烧肉</string>
+		<string>双脆炒肉丝</string>
+		<string>百合炒牛肉</string>
+		<string>家味宫保鸡 </string>
+		<string>葱油明虾</string>
+		<string>田园素炒</string>
+	</array>
+	<key>WorkType</key>
+	<array>
+		<string>公务员</string>
+		<string>销售</string>
+		<string>工人</string>
+		<string>老师</string>
+		<string>政府机构</string>
+		<string>其他</string>
+		<string>金融</string>
+		<string>能源/环保</string>
+		<string>法律</string>
+		<string>咨询</string>
+		<string>文化/艺术</string>
+		<string>影视/娱乐</string>
+		<string>教育/考研</string>
+		<string>房地产</string>
+		<string>医药/健康</string>
+		<string>媒体/公关</string>
+		<string>学生</string>
+	</array>
+	<key>Music</key>
+	<array>
+		<string>陈思思</string>
+		<string>谭晶</string>
+		<string>成方圆</string>
+		<string>毛阿敏</string>
+		<string>刘清娣</string>
+		<string>宋祖英</string>
+		<string>董文华</string>
+		<string>张国荣</string>
+		<string>梅艳芳</string>
+		<string>周杰伦</string>
+		<string>张韶涵</string>
+		<string>汪峰</string>
+	</array>
+	<key>Sport</key>
+	<array>
+		<string>网球</string>
+		<string>柔道</string>
+		<string>曲棍球</string>
+		<string>倾斜道自行车赛</string>
+		<string>独木舟</string>
+		<string>沙滩排球</string>
+		<string>拳击</string>
+		<string>棒球</string>
+		<string>田径</string>
+		<string>游泳</string>
+		<string>足球</string>
+		<string>篮球</string>
+		<string>羽毛球</string>
+	</array>
+</dict>
+</plist>
